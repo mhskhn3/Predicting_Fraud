@@ -1,7 +1,7 @@
 # Predicting_Fraud
 A fraud prediction model is a sophisticated algorithm or system designed to detect and prevent fraudulent activities in various domains, such as finance, e-commerce, healthcare, and more. In brief, here's a description of how such a model typically works:
 
-**Data Collection:** ### The model begins by collecting large volumes of data related to transactions, user behavior, or any relevant activities. This data may include historical transaction records, user profiles, device information, and more.
+**Data Collection:** <small> The model begins by collecting large volumes of data related to transactions, user behavior, or any relevant activities. This data may include historical transaction records, user profiles, device information, and more.
 
 **Feature Engineering:** The collected data is preprocessed and transformed into meaningful features. Feature engineering involves selecting, extracting, and engineering relevant attributes from the data, such as transaction frequency, location, user behavior patterns, and more.
 
